@@ -93,9 +93,9 @@ main {
 
 /* Hero section*/
 #hero {
-    height: 600px;
+    height: 800px;
     width: 100%;
-    background-color: pink;
+    background: url("../images/hero-image.webp") no-repeat center center/cover;
 }
 
 
